@@ -1,3 +1,4 @@
 langchain==1.2.15
 langgraph==1.1.7a1
 lock-requirements==0.1.1
+ipykernel==7.2.0
