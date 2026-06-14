@@ -7,3 +7,5 @@ langchain_openai
 python-dotenv
 langchain-tavily
 langgraph-checkpoint-postgres
+tavily-python
+deepagents
